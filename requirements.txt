@@ -3,3 +3,4 @@ pandas
 streamlit
 tensorflow
 keras
+altair==4.2.2
