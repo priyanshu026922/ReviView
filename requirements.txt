@@ -1,6 +1,5 @@
-numpy 
-pandas
 streamlit
-tensorflow
-keras
+tensorflow==2.20.0
+numpy<2.0
+ml-dtypes==0.4.0
 altair==4.2.2
